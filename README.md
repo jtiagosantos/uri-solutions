@@ -1,2 +1,2 @@
 # URI SOLUTIONS
- Todas as minhas soluções para os problemas do URI Online Judge.
+All my solutions for problems from URI Online Judge.
