@@ -71,7 +71,7 @@ Solve the available problems using 11 programming languages, and compete with ot
 
 
 # License
-* [MIT LICENSE](https://opensource.org/licenses/MIT)
+* [**MIT LICENSE**](https://opensource.org/licenses/MIT)
 
 
 
