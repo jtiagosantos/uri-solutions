@@ -21,7 +21,7 @@ Restrições
 
 Informações sobre a pontuação
 
-• Para um conjunto de casos de testes valendo 10 pontos, as duas notas das provas são iguais.
+
 '''
 
 A = int(input())
