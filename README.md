@@ -16,7 +16,6 @@ The URI Online Judge is a project that is being developed by the Computer Scienc
 The URI Online Judge contains more than 1000 problems divided in 8 big categories.
 
 * **1 - Beginner:** Basic problems for anyone who has just started to program (304 problems)
-
 * **2 - Ad-Hoc:** Simulation Problems, Dates, Games and General Ad-Hoc (703 problems)
 
 ---
