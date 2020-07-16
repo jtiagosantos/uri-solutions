@@ -12,11 +12,6 @@ Saída
 Para cada caso de teste na entrada, seu programa deverá escrever uma linha contendo a sentença "Mary won X times and John won Y times" ("Maria venceu X vezes e Joao venceu Y vezes"), onde 0 ≤ X e 0 ≤ Y.
 '''
 
-'''
--Maria escolhe cara(0);
--João escolhe coroa(1);
-'''
-
 while True:
     N = int(input())
     if N == 0:
