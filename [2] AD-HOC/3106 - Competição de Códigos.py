@@ -7,7 +7,7 @@ A primeira linha da entrada contém um inteiro N (0≤N≤105), o número de uni
 A segunda linhada entrada contém N inteiros: o i-ésimo inteiro Si é o número de alunos da i-ésima universidade (0≤Si≤102).
 
 Saída
-A saída deve ser uma linha contendo um único inteiro: o maior possível número de alunos que podem participar da GCC dado as limitações mencionadas.
+A saída deve ser uma linha contendo um único inteiro: o maior possível número de alunos que podem participar da GCC dado as limitações mencionadas
 '''
 
 N = int(input())
