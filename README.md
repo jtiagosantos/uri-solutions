@@ -1,5 +1,5 @@
 # URI Online Judge - Solutions
-All my solutions for problems from URI Online Judge.
+All my solutions to the problems of URI Online Judge.
 
 
 
