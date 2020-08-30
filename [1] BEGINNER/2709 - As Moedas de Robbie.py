@@ -33,18 +33,12 @@ def e_primo(num):
 
 while True:
     try:
-        qt_moedas = int(input()); moedas = []; soma = []; i = 0
+        qt_moedas = int(input()); moedas = []
         for _ in range(qt_moedas):
             moedas.append(int(input()))
         salto = int(input())
-        for k,v in enumerate(moedas[::-1]):
-            if k == 0:
-                soma.append(v)
-            if i == salto:
-                soma.append(v)
-                i = 0
-            i += 1
-        num = sum(soma)
+        moedas2 = [v for k, v in enumerate(moedas[::-1]) if k % salto == 0]
+        num = sum(moedas2)
         teste = e_primo(num)
         print(teste)
     except EOFError:
