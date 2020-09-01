@@ -1,0 +1,17 @@
+'''
+Escreva um programa que leia um valor inteiro N. N * 2 linhas de saída serão apresentadas na execução do programa, 
+seguindo a lógica do exemplo abaixo. Para valores com mais de 6 dígitos, todos os dígitos devem ser apresentados.
+
+Entrada
+O arquivo de entrada contém um número inteiro positivo N (1 < N < 1000).
+
+Saída
+Imprima a saída conforme o exemplo fornecido.
+'''
+
+N = int(input())
+num = 1
+for _ in range(N):
+    print('{} {} {}'.format(num, num**2, num**3))
+    print('{} {} {}'.format(num, num**2+1, num**3+1))
+    num += 1
