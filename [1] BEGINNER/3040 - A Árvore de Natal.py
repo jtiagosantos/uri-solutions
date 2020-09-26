@@ -10,11 +10,6 @@ Saída
 Sua tarefa é, para cada árvore, imprimir Sim, se ela é uma árvore que Roberto pode escolher, ou Não, se é uma árvore que ele não deve escolher.
 '''
 
-'''
-altura >= 200 and altura <= 300
-espessura >= 50
-galhos >= 150
-'''
 N = int(input())
 for i in range(N):
     valores = str(input()).split()
