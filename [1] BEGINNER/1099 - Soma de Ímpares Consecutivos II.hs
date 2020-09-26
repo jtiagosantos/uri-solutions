@@ -9,7 +9,7 @@ Imprima a soma de todos valores ímpares entre X e Y.
 -}
 
 soma_impar :: Int -> Int -> Int
-soma_impar a b = sum([i | i<- [min a b .. max a b], mod i 2 /= 0, i /= min a b, i /= max a b])
+soma_impar a b = sum([i | i<- [min a b .. max a b], mod i 2 /= 0, i /=a , i /= b])
 
 loop 0 = return ()
 loop n = do
