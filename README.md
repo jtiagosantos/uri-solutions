@@ -61,11 +61,11 @@ Solve the available problems using 11 programming languages, and compete with ot
 
 
 # My Progress
-* **Points:** 1016
-* **Solved:** 336 (15.85%)
-* **Tried:** 369
-* **Submissions:** 1009
-* **Hardest Solved:** 1000
+* **Points:** 1298
+* **Solved:** 356 (16.78%)
+* **Tried:** 388
+* **Submissions:** 1226
+* **Hardest Solved:** 3137
 * **Hardest Tried:** 2978
 
 
