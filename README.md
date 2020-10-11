@@ -55,16 +55,16 @@ Solve the available problems using 11 programming languages, and compete with ot
 * **Country:** Brazil
 * **University:** Federal University of Amazonas - [UFAM](https://www.urionlinejudge.com.br/judge/pt/users/university/ufam)
 * **Since:** 05/03/2020
-* **Main Rank Position:** 988º
+* **Main Rank Position:** 934º
 * **Institution Rank Position:** 22°
 
 
 
 # My Progress
-* **Points:** 1308
-* **Solved:** 356 (16.78%)
-* **Tried:** 388
-* **Submissions:** 1234
+* **Points:** 1362
+* **Solved:** 361 (17.02%)
+* **Tried:** 394
+* **Submissions:** 1258
 * **Hardest Solved:** 3137
 * **Hardest Tried:** 2978
 
