@@ -14,6 +14,6 @@ valores = []
     valores.push(n)
 end
 
-count = valores.select{|i| i > 0}
+count = valores.select{|i| i > 0}.size
 
-puts "#{count.size} valores positivos"
+puts "#{count} valores positivos"
