@@ -1,27 +1,24 @@
 /*
-Leia 2 valores inteiros e armazene-os nas vari veis A e B. Efetue a soma de A e B atribuindo o seu resultado na vari vel X. 
-Imprima X conforme exemplo apresentado abaixo. N?o apresente mensagem alguma al‚m daquilo que est  sendo especificado e n?o 
-esque‡a de imprimir o fim de linha ap¢s o resultado, caso contr rio, vocˆ receber  "Presentation Error".
+Leia 2 valores inteiros e armazene-os nas variï¿½veis A e B. Efetue a soma de A e B atribuindo o seu resultado na variï¿½vel X. 
+Imprima X conforme exemplo apresentado abaixo. N?o apresente mensagem alguma alï¿½m daquilo que estï¿½ sendo especificado e n?o 
+esqueï¿½a de imprimir o fim de linha apï¿½s o resultado, caso contrï¿½rio, vocï¿½ receberï¿½ "Presentation Error".
 
 Entrada
-A entrada cont‚m 2 valores inteiros.
+A entrada contï¿½m 2 valores inteiros.
 
-Sa¡da
-Imprima a mensagem "X = " (letra X mai£scula) seguido pelo valor da vari vel X e pelo final de linha. Cuide para que tenha um 
-espa‡o antes e depois do sinal de igualdade, conforme o exemplo abaixo.
+Saï¿½da
+Imprima a mensagem "X = " (letra X maiï¿½scula) seguido pelo valor da variï¿½vel X e pelo final de linha. Cuide para que tenha um 
+espaï¿½o antes e depois do sinal de igualdade, conforme o exemplo abaixo.
 */
 
 #include <stdio.h>
  
 int main() {
-    int a, b, soma;
+    int a, b;
     
     scanf("%d", &a);
     scanf("%d", &b);
-    
-    soma = a + b;
-    
-    printf("X = %d\n", soma);
+    printf("X = %d\n", a+b);
  
     return 0;
 }
